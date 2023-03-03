@@ -1,5 +1,6 @@
 TODO:
 
+Hasheo de datos sensibles.
 Separacion de modulos por entidad.
 Terminar todos los endpoints para todas las entidades (falta put y delete)
 Integracion de estado con sesiones.
